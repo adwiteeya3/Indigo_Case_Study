@@ -2,6 +2,9 @@
 
 # README for Quora Question Answering Project
 
+## [Colab Notebook]([url](https://colab.research.google.com/drive/1VFDUVFEuD9dmFplTub_spkTwfhBC22FY?sharingaction=ownershiptransfer#scrollTo=h7GGwJ4-iQ9v))
+## [Presentation]([url](https://docs.google.com/presentation/d/19I5D2c5caEYBTmX_bCxPkYVuMexXMyLng_hz-P8YvNM/edit#slide=id.g2f329bcef73_0_0))
+
 ## Overview
 
 This project involves developing a state-of-the-art question-answering model using the Quora Question Answer Dataset. The primary objective was to build an AI system capable of understanding and generating accurate responses to a variety of user queries, mimicking human-like interaction.
