@@ -2,8 +2,8 @@
 
 # README for Quora Question Answering Project
 
-## [Colab Notebook]([url](https://colab.research.google.com/drive/1VFDUVFEuD9dmFplTub_spkTwfhBC22FY?sharingaction=ownershiptransfer#scrollTo=h7GGwJ4-iQ9v))
-## [Presentation]([url](https://docs.google.com/presentation/d/19I5D2c5caEYBTmX_bCxPkYVuMexXMyLng_hz-P8YvNM/edit#slide=id.g2f329bcef73_0_0))
+## [Colab Notebook](https://colab.research.google.com/drive/1VFDUVFEuD9dmFplTub_spkTwfhBC22FY?sharingaction=ownershiptransfer#scrollTo=h7GGwJ4-iQ9v)
+## [Presentation](https://docs.google.com/presentation/d/19I5D2c5caEYBTmX_bCxPkYVuMexXMyLng_hz-P8YvNM/edit#slide=id.g2f329bcef73_0_0)
 
 ## Overview
 
